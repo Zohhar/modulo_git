@@ -1,0 +1,23 @@
+[33mcommit 25b6ee1c0983357a4f80cbc8833c48770c0333c3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Bruno Costa <brunozohar@gmail.com>
+Date:   Sun Nov 6 11:56:03 2022 -0300
+
+    Adição do changelog
+
+[33mcommit aa32a433ff2428797a41c388424dd177c37704e4[m
+Author: Bruno Costa <brunozohar@gmail.com>
+Date:   Sun Nov 6 11:25:24 2022 -0300
+
+    Modificação de arquivo1.txt usando -am a (add) m(modifica o título da alteração)
+
+[33mcommit 3632fa23c0c187fcd005ddec1f8fb50a1dcafc01[m
+Author: Bruno Costa <brunozohar@gmail.com>
+Date:   Sun Nov 6 11:23:56 2022 -0300
+
+    Modificação de arquivo1.txt
+
+[33mcommit 6dc4864bc5e4a4c720e8846f970136ca165c3f48[m
+Author: Bruno Costa <brunozohar@gmail.com>
+Date:   Sun Nov 6 11:20:45 2022 -0300
+
+    Alterando o conteudo do arquivo2.txt
